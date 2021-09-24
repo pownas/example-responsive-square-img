@@ -9,3 +9,9 @@ body{
 .list-figure {
     background-color: rgb(240, 240, 240)
 }
+
+.list-img {
+    width: 15rem;
+    height: 15rem;
+    object-fit: cover;
+}
