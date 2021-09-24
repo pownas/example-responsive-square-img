@@ -11,3 +11,12 @@ What it should look like (only 1:1 images), but with the images from first examp
 
 The code from Image1 and Image2 (needs to be changed in css or html to show squares and be responsive...) : 
 ![image](https://user-images.githubusercontent.com/47676607/134738059-43424849-7196-40c7-803b-bb289ec3a133.png)
+
+
+## Test2 ([index2.html](https://github.com/pownas/example-responsive-square-img/blob/main/index2.html) and [style2.css](https://github.com/pownas/example-responsive-square-img/blob/main/style2.css#L13-L17))
+Result when on 100% desktop width (looks good):
+![image](https://user-images.githubusercontent.com/47676607/134742436-c81ef226-f80c-4f40-9eeb-8aaa85377a62.png)
+
+
+Result when mobile-view (NOT GOOD 😣): 
+![image](https://user-images.githubusercontent.com/47676607/134742318-68a70c22-d007-4583-8d4d-5a8d5b5a4585.png)
