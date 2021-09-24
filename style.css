@@ -1,0 +1,11 @@
+body{
+    background-color: #0d1117;
+}
+
+.list-figure:hover {
+    background-color: rgb(177, 175, 175);
+}
+
+.list-figure {
+    background-color: rgb(240, 240, 240)
+}
